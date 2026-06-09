@@ -1,0 +1,16 @@
+# Core scientific computing
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Network and hydraulic modeling
+networkx>=3.0
+wntr>=1.0
+
+# Visualization
+matplotlib>=3.7
+
+# Notebook support
+jupyter>=1.0
+ipykernel>=6.0
+openpyxl>=3.1
